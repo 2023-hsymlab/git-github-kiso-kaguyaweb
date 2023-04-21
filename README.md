@@ -19,3 +19,4 @@ Use Google Colaboratory: Simple StockData scraping from stooq.com - SoftBank
   - 前日比、前日との差
   - グラフ化
   - 平均値
+  - 期間の選択
