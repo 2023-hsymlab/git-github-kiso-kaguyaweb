@@ -20,3 +20,14 @@ Use Google Colaboratory: Simple StockData scraping from stooq.com - SoftBank
   - グラフ化
   - 平均値
   - 期間の選択
+
+## 4/27~
+
+- 機能の実装
+  - マーケティング情報の配信
+  - ランキング
+    - ~5/10: 6 つの株価を比較した
+  - テクニカル指標のグラフ
+  - 株価アラート
+  - データのバックアップ機能
+  - ポートフォリオ(各自の DB)
