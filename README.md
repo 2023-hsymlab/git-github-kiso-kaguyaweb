@@ -41,3 +41,11 @@ Use Google Colaboratory: Simple StockData scraping from stooq.com - SoftBank
 - index にない日時は表示なし
 
 ![プルダウン式に表示](scr1.png)
+
+- ローソク足の描画
+
+![](newplot.png)
+
+### 参考
+
+[ローソク足の描画](https://kiseno-log.com/2020/06/29/python%E3%81%A7%E6%97%A5%E6%9C%AC%E6%A0%AA%E3%81%AE%E6%A0%AA%E4%BE%A1%E3%82%92%E5%8F%96%E5%BE%97%E3%81%97%E3%81%A6%E3%83%AD%E3%83%BC%E3%82%BD%E3%82%AF%E8%B6%B3%E3%81%AE%E6%8F%8F%E7%94%BB/)
