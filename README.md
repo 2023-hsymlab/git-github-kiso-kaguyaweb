@@ -31,11 +31,11 @@ Use Google Colaboratory: Simple StockData scraping from stooq.com - SoftBank
   - データのバックアップ機能
   - ポートフォリオ(各自の DB)
 
-### ~5/10
+## ~5/10
 
 - 6 つの株価を比較したランキングを表示
 
-### ~5/24
+## ~5/24
 
 - 日時を指定して価格を表示
 - index にない日時は表示なし
